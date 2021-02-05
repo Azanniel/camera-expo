@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Camera Expo",
+    "description": "App para lidar com a camera do celular usando a API de Camera do Expo",
     "slug": "camera-expo",
     "version": "1.0.0",
     "orientation": "portrait",
